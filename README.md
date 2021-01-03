@@ -10,7 +10,7 @@ Il s’agit d’une base de données de E-commerce de vêtements pour femmes qui
 
 ## Details des variables
 
-Clothing ID : (INT) Variable catégorielle qui représente l’article noté et donne sont avis.
+Clothing ID : (INT) Variable catégorielle qui représente l’article noté et donne sont avis.\\
 Age : (INT) Age du client.
 Title : (STRING) Le titre de l’avis.
 Review Text : (STRING) Avis du client.
