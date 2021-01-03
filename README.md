@@ -5,7 +5,7 @@
 ### Présentation de base de données
 
 Il s’agit d’une base de données de E-commerce de vêtements pour femmes qui tourne autour des critiques
-écrites par les clients. Il s’agit de véritables données commerciales.
+écrites par les clients. 
 - Lien vers données https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 ## Details des variables
