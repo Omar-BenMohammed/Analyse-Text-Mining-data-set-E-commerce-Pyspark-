@@ -52,7 +52,7 @@ Enrichissement de données...).
 
 ### Run code
 
-Pour compiler notre code il suffit de compiler notre fichier "python3 main.py", une fois notre code est éxécuté on on obtient les détail de chaque étape sur notre terminal :
+Pour compiler notre code il suffit de compiler notre fichier "python3 main.py", une fois notre code est éxécuté on on obtient les détail de chaque étape sur notre terminal (crée dossier models et plot):
 - Etape1 : Lire notre fichier CSV est avoir les details sur notre DF 
 - Etape2 : Traiter et Netoyer nos données est avoir les details sur notre DF Clean
 - Etape3 : Analyser de nos données et les sauvgarder dans le dossier "plot".
